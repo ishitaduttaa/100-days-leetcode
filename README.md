@@ -1,22 +1,17 @@
 # 100-days-leetcode
 A 100-day DSA challenge focused on mastering the most important coding interview patterns.
-
 **Language:** Java  
-**Duration:** 100 Days  
-**Target:** 300+ Problems  
+**Duration:** 1/100 Days  
 **Goal:** Buy something
 
-# 🟢 DAYS 1–10 — ARRAYS & HASHING
-
+# 🟢 DAYS 1–10 - ARRAYS & HASHING
 ## Day 1
-
-- [ ] Two Sum
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Concatenation of Array
+- [x] Two Sum
+- [x] Contains Duplicate
+- [x] Valid Anagram
+- [x] Concatenation of Array
 
 ## Day 2
-
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Maximum Subarray
 - [ ] Majority Element
